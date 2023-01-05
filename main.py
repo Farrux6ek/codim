@@ -9,7 +9,7 @@ import requests
 # API MANBA : @ITMAKTABI1 | @SuppercoderUz
 # MANBAGA TEGILMASIN !!!
 
-TOKEN = "5880875816:AAEHvVbLV4rmMK5tyMgEeMtu7bKwCCp7C9E"
+TOKEN = "5292466245:AAHJfC_GTs-quwiV2ylczG-5mjG3BU_ojz8"
 bot = Bot(token=TOKEN, parse_mode='markdown')
 Gayratov = Dispatcher(bot)
 
